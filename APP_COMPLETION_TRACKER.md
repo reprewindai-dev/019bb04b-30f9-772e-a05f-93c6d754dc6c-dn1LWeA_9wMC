@@ -4,7 +4,17 @@
 
 | App Name | Status | Quality Score | Completion % | Notes |
 |----------|--------|---------------|-------------|-------|
-| - | - | - | - | - |
+| Audio-Alchemy-Elite | In Progress | TBD | 0% | Copied to Documents, assessing quality |
+| TrapMasterPro_AudioMasteringApp_EXPORTFIX | Pending | - | 0% | - |
+| Mastered_ | Pending | - | 0% | - |
+| ClipCraft-Studio | Pending | - | 0% | Multiple versions - need to identify best |
+| Carousel-Crafter-1 | Pending | - | 0% | Duplicate: Carrousel app |
+| Shortform | Pending | - | 0% | - |
+| Freestyle-Writer-Patched-Vercel | Pending | - | 0% | - |
+| Plugged Finds Master | Pending | - | 0% | Duplicate: PluggedFinds |
+| StudioGradeKits landing page | Pending | - | 0% | - |
+| Loveapp | Pending | - | 0% | - |
+| buildmetoworkonreplit | Pending | - | 0% | - |
 
 ## Completion Criteria
 
