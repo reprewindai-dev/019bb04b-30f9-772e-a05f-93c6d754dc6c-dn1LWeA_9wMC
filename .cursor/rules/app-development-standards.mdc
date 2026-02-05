@@ -1,0 +1,74 @@
+---
+description: Premium app development standards - production-ready, user-friendly, fully functional
+alwaysApply: true
+---
+
+# App Development Standards
+
+## Core Principles
+
+All apps must be **premium, production-ready, and fully functional**. Quality is paramount.
+
+## Design Requirements
+
+- **Premium Quality**: Top-tier, class-leading design
+- **User-Friendly**: Intuitive, easy-to-use interface
+- **Professional Look & Feel**: Polished, modern UI/UX
+- **Consistent Design**: Follow established design systems
+
+## Functionality Requirements
+
+- **Fully Functional**: Every feature must work completely
+- **Optimized Performance**: Smooth, responsive operation
+- **Production-Ready**: No bugs, errors, or incomplete features
+- **Thoroughly Tested**: Tested across devices and scenarios
+
+## API Integration
+
+- **Cost-Friendly APIs**: Use affordable, efficient APIs
+- **Optimized Usage**: Minimize API calls and costs
+- **Error Handling**: Proper error handling for all API calls
+- **Backend Integration**: Seamlessly integrate with provided backend
+
+## Duplicate Management
+
+When encountering duplicate apps:
+1. **Keep**: The most complete, feature-rich version
+2. **Discard**: All other duplicates
+3. **Criteria**: Most features, best UX, most polished, fully functional
+
+## Code Quality Standards
+
+```typescript
+// ✅ GOOD - Production-ready code
+async function fetchUserData(userId: string) {
+  try {
+    const response = await api.get(`/users/${userId}`);
+    return response.data;
+  } catch (error) {
+    logger.error('Failed to fetch user data', { userId, error });
+    throw new UserFetchError('Unable to retrieve user data', { cause: error });
+  }
+}
+
+// ❌ BAD - Incomplete, not production-ready
+async function fetchUserData(userId: string) {
+  const response = await api.get(`/users/${userId}`);
+  return response.data; // No error handling
+}
+```
+
+## Checklist Before Completion
+
+- [ ] All features fully implemented
+- [ ] Premium design implemented
+- [ ] Fully optimized
+- [ ] Backend integrated
+- [ ] APIs cost-optimized
+- [ ] No duplicates exist
+- [ ] Thoroughly tested
+- [ ] Production-ready
+
+## App Purpose
+
+Every app must do its intended purpose **exceptionally well**. If it doesn't serve its purpose perfectly, it's not ready.
