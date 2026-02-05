@@ -2,5 +2,8 @@
 !.gitignore
 !README.md
 !USER_DOC.md
+!QUALITY_CONTROL.md
+!DOPAMINE_UX_GUIDE.md
+!APP_COMPLETION_TRACKER.md
 !.cursor/
 !.cursor/**

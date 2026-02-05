@@ -1,5 +1,5 @@
 ---
-description: Premium app development standards - production-ready, user-friendly, fully functional
+description: Premium app development standards - production-ready, user-friendly, fully functional, 90+ quality score required
 alwaysApply: true
 ---
 
@@ -7,7 +7,13 @@ alwaysApply: true
 
 ## Core Principles
 
-All apps must be **premium, production-ready, and fully functional**. Quality is paramount.
+All apps must be **premium, production-ready, and fully functional**. Quality is paramount. **Minimum quality score: 90/100** required before moving to next app.
+
+## One-Time Completion Rule
+
+- **Complete every app once** - Never create the same version twice
+- Each app is completed to perfection before moving to the next
+- If improvements needed, enhance existing version, don't recreate
 
 ## Design Requirements
 
@@ -15,6 +21,8 @@ All apps must be **premium, production-ready, and fully functional**. Quality is
 - **User-Friendly**: Intuitive, easy-to-use interface
 - **Professional Look & Feel**: Polished, modern UI/UX
 - **Consistent Design**: Follow established design systems
+- **Dopamine-Driven UX**: Visually appealing, triggers positive emotions, delightful interactions
+- **Visual Polish**: Pixel-perfect execution, stunning visual appeal
 
 ## Functionality Requirements
 
@@ -58,17 +66,50 @@ async function fetchUserData(userId: string) {
 }
 ```
 
+## Enhancement Authorization
+
+- **Permission granted** to pull from "brains and engines" for:
+  - Top-tier features that elevate apps
+  - Game-changing ideas and innovations
+  - Never-seen-before features
+  - Features that make apps industry-leading
+
+## Quality Control Scoring
+
+**Minimum Score: 90/100 Required**
+
+Scoring breakdown:
+- Visual Design & Dopamine UX: 25 points
+- Functionality & Completeness: 25 points
+- Performance & Optimization: 15 points
+- User Experience & Usability: 15 points
+- Innovation & Game-Changing Features: 10 points
+- Code Quality & Architecture: 10 points
+
+See QUALITY_CONTROL.md for detailed scoring criteria.
+
 ## Checklist Before Completion
 
 - [ ] All features fully implemented
-- [ ] Premium design implemented
-- [ ] Fully optimized
+- [ ] Premium, dopamine-driven design implemented
+- [ ] Fully optimized (performance & resources)
 - [ ] Backend integrated
 - [ ] APIs cost-optimized
 - [ ] No duplicates exist
-- [ ] Thoroughly tested
-- [ ] Production-ready
+- [ ] Thoroughly tested (zero bugs)
+- [ ] Production-ready code quality
+- [ ] **Quality score: 90+ achieved**
+- [ ] **100% completion verified**
+- [ ] Saved to `C:\Users\antho\Documents\[app-name]\`
+
+## Completion Requirements
+
+- **Never move to next app until current app scores 90+**
+- **100% completion** required - all tasks at highest quality
+- Rigorous executive quality control standards
+- Minor adjustments/improvements are approved and encouraged
+- Some apps may need nothing or minor tweaks - that's fine
 
 ## App Purpose
 
-Every app must do its intended purpose **exceptionally well**. If it doesn't serve its purpose perfectly, it's not ready.
+Every app must do its intended purpose **exceptionally well**. If it doesn't serve its purpose perfectly, it's not ready. Apps must be game-changing, top-tier, and never-seen-before quality.
