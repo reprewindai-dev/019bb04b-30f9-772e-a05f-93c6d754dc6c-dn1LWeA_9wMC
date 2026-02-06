@@ -106,9 +106,20 @@ See QUALITY_CONTROL.md for detailed scoring criteria.
 
 - **Never move to next app until current app scores 90+**
 - **100% completion** required - all tasks at highest quality
+- **ZERO TOLERANCE POLICY** - Nothing passes unless:
+  - ✅ 100% tested
+  - ✅ 100% verified
+  - ✅ 100% proven working
+  - ✅ Zero bugs (no exceptions)
+  - ✅ Zero user dissatisfaction risk
+  - ✅ Zero chaos or disruption potential
+- **NON-NEGOTIABLE** - This standard is absolute
+- **NON-ACCEPTABLE** - To skip testing or verification
 - Rigorous executive quality control standards
+- Every feature must be tested, verified, and proven working
+- User satisfaction is paramount - no dissatisfaction tolerated
 - Minor adjustments/improvements are approved and encouraged
-- Some apps may need nothing or minor tweaks - that's fine
+- Some apps may need nothing or minor tweaks - but still must be fully tested
 
 ## App Purpose
 

@@ -171,7 +171,14 @@ Each app should have:
 ## Notes
 
 - **100% completion required** before moving to next app
-- **No shortcuts** - quality is non-negotiable
-- **Executive-level standards** - must impress at highest level
-- **Dopamine-driven** - users should feel genuine delight
-- **Game-changing** - aim for industry-leading innovation
+- **NO SHORTCUTS** - Quality is non-negotiable
+- **ZERO TOLERANCE** - Nothing passes unless 100% tested, verified, and proven working
+- **ZERO BUGS** - No exceptions, no "minor" bugs allowed
+- **ZERO USER DISSATISFACTION** - Users cannot be dissatisfied, create chaos, or disruption
+- **NON-NEGOTIABLE** - This standard is absolute and non-acceptable to skip
+- **Executive-level standards** - Must impress at highest level
+- **Dopamine-driven** - Users should feel genuine delight
+- **Game-changing** - Aim for industry-leading innovation
+- **FULLY TESTED** - Every feature, every flow, every edge case
+- **FULLY VERIFIED** - Proven working in all scenarios
+- **FULLY PROVEN** - Demonstrated reliability and quality

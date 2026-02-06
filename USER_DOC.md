@@ -102,10 +102,20 @@ Before an app is considered complete and ready for storage:
 
 ### Completion Requirements
 - **100% completion** required before moving to next app
+- **ZERO TOLERANCE POLICY** - Nothing gets passed unless:
+  - ✅ 100% tested
+  - ✅ 100% verified  
+  - ✅ 100% proven working
+  - ✅ Zero bugs (no exceptions)
+  - ✅ Zero user dissatisfaction risk
+  - ✅ Zero chaos or disruption potential
 - All tasks must be at **highest quality**
 - Rigorous executive quality control
 - Must score **90+** on quality control system
+- **NON-NEGOTIABLE** - This standard is absolute
+- **NON-ACCEPTABLE** - To skip testing or verification
 - Save completed apps to: `C:\Users\antho\Documents\[app-name]\`
+- See [TESTING_VERIFICATION.md](./TESTING_VERIFICATION.md) for complete testing requirements
 
 ## Notes
 
