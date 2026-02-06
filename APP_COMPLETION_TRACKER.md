@@ -8,7 +8,10 @@
 | TrapMasterPro_AudioMasteringApp_EXPORTFIX | Pending | - | 0% | - |
 | Mastered_ | Pending | - | 0% | - |
 | ClipCraft-Studio | Pending | - | 0% | Multiple versions - need to identify best |
-| Carousel-Crafter-1 | Pending | - | 0% | Duplicate: Carrousel app |
+| Carousel-Crafter-1 | Pending | - | 0% | Single version - analyzing |
+| Carrousel app - Brand 1 | Pending | - | 0% | 019b2194... - analyzing |
+| Carrousel app - Brand 2 | Pending | - | 0% | 019bae06... - analyzing |
+| Carrousel app - Brand 3 | Pending | - | 0% | 019bae29... - analyzing |
 | Shortform | Pending | - | 0% | - |
 | Freestyle-Writer-Patched-Vercel | Pending | - | 0% | - |
 | Plugged Finds Master | Pending | - | 0% | Duplicate: PluggedFinds |
