@@ -114,7 +114,7 @@ Before an app is considered complete and ready for storage:
 - Must score **90+** on quality control system
 - **NON-NEGOTIABLE** - This standard is absolute
 - **NON-ACCEPTABLE** - To skip testing or verification
-- Save completed apps to: `C:\Users\antho\Documents\[app-name]\`
+- Save completed apps to: `%USERPROFILE%\Documents\[app-name]\`
 - See [TESTING_VERIFICATION.md](./TESTING_VERIFICATION.md) for complete testing requirements
 
 ## Notes

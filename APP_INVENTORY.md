@@ -55,5 +55,5 @@
 ## Next Steps
 1. Analyze duplicates to identify most complete version
 2. Complete each app to 90+ quality score
-3. Move to C:\Users\antho\Documents\[app-name]\
+3. Move to %USERPROFILE%\Documents\[app-name]\
 4. Update completion tracker

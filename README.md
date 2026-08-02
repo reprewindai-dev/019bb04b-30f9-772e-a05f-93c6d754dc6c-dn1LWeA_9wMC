@@ -42,7 +42,7 @@ This repository contains documentation and standards for managing premium, produ
 - No incomplete or prototype apps
 
 ### Save Location
-All completed apps saved to: `C:\Users\antho\Documents\[app-name]\`
+All completed apps saved to: `%USERPROFILE%\Documents\[app-name]\`
 
 ## Getting Started
 
