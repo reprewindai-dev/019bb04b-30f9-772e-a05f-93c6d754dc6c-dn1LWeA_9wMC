@@ -100,7 +100,7 @@ See QUALITY_CONTROL.md for detailed scoring criteria.
 - [ ] Production-ready code quality
 - [ ] **Quality score: 90+ achieved**
 - [ ] **100% completion verified**
-- [ ] Saved to `C:\Users\antho\Documents\[app-name]\`
+- [ ] Saved to `%USERPROFILE%\Documents\[app-name]\`
 
 ## Completion Requirements
 

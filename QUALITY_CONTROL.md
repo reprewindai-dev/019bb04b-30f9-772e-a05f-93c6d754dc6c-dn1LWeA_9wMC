@@ -159,7 +159,7 @@ Before finalizing an app, verify:
 
 All completed apps must be saved to:
 ```
-C:\Users\antho\Documents\[app-name]\
+%USERPROFILE%\Documents\[app-name]\
 ```
 
 Each app should have:
