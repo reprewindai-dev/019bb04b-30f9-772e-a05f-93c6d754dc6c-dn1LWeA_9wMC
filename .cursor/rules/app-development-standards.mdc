@@ -51,7 +51,7 @@ When encountering duplicate apps:
 // ✅ GOOD - Production-ready code
 async function fetchUserData(userId: string) {
   try {
-    const response = await api.get(`/users/${userId}`);
+    const response = await api.get(`/users/${encodeURIComponent(userId)}`);
     return response.data;
   } catch (error) {
     logger.error('Failed to fetch user data', { userId, error });
